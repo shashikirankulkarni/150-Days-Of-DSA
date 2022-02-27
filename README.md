@@ -1,2 +1,2 @@
-# 150-Days-Of-DSA
-Learning DSA in 150 Days Challenge
+# 150 Days of Learning DSA
+Day 1
